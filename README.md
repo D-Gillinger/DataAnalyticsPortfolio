@@ -1,7 +1,7 @@
 # DataAnalyticsPortfolio
 LinkedIn Profile
 https://www.linkedin.com/in/daniel-gillinger/
-###List of things to include:
+### List of things to include:
   #Accounting Tableau files
   #Minitab (and other Data Analysis stuff)
   #UiPath
